@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ProfileCurrentVersion</key>
+  <real>2.0699999999999998</real>
+
+  <key>name</key>
+  <string>BinHua From iTerm</string>
+
+  <key>type</key>
+  <string>Window Settings</string>
+
+  <key>Window Settings</key>
+  <dict>
+    <!-- Core colors -->
+    <key>BackgroundColor</key>
+    <dict>
+      <key>Red Component</key><real>0.11764706</real>
+      <key>Green Component</key><real>0.11764706</real>
+      <key>Blue Component</key><real>0.18039216</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <key>TextColor</key>
+    <dict>
+      <key>Red Component</key><real>0.6627451</real>
+      <key>Green Component</key><real>0.69411765</real>
+      <key>Blue Component</key><real>0.8392157</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <key>BoldTextColor</key>
+    <dict>
+      <key>Red Component</key><real>0.6627451</real>
+      <key>Green Component</key><real>0.69411765</real>
+      <key>Blue Component</key><real>0.8392157</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <key>CursorColor</key>
+    <dict>
+      <key>Red Component</key><real>0.6627451</real>
+      <key>Green Component</key><real>0.69411765</real>
+      <key>Blue Component</key><real>0.8392157</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <key>CursorTextColor</key>
+    <dict>
+      <key>Red Component</key><real>0.11764706</real>
+      <key>Green Component</key><real>0.11764706</real>
+      <key>Blue Component</key><real>0.18039216</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <key>SelectionColor</key>
+    <dict>
+      <key>Red Component</key><real>0.24313725</real>
+      <key>Green Component</key><real>0.27058824</real>
+      <key>Blue Component</key><real>0.32156863</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <key>SelectedTextColor</key>
+    <dict>
+      <key>Red Component</key><real>0.75294118</real>
+      <key>Green Component</key><real>0.79215686</real>
+      <key>Blue Component</key><real>0.96078431</real>
+      <key>Alpha Component</key><real>1</real>
+    </dict>
+
+    <!-- ANSI 0-7 -->
+    <key>ANSIBlackColor</key>
+    <dict><key>Red Component</key><real>0.11764706</real><key>Green Component</key><real>0.11764706</real><key>Blue Component</key><real>0.18039216</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIRedColor</key>
+    <dict><key>Red Component</key><real>0.96862745</real><key>Green Component</key><real>0.46666667</real><key>Blue Component</key><real>0.55686275</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIGreenColor</key>
+    <dict><key>Red Component</key><real>0.61960784</real><key>Green Component</key><real>0.9254902</real><key>Blue Component</key><real>0.41568627</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIYellowColor</key>
+    <dict><key>Red Component</key><real>0.87843137</real><key>Green Component</key><real>0.68627451</real><key>Blue Component</key><real>0.40784314</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBlueColor</key>
+    <dict><key>Red Component</key><real>0.47843137</real><key>Green Component</key><real>0.63529412</real><key>Blue Component</key><real>0.96862745</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIMagentaColor</key>
+    <dict><key>Red Component</key><real>0.73333333</real><key>Green Component</key><real>0.60392157</real><key>Blue Component</key><real>0.96862745</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSICyanColor</key>
+    <dict><key>Red Component</key><real>0.49019608</real><key>Green Component</key><real>0.81176471</real><key>Blue Component</key><real>1</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIWhiteColor</key>
+    <dict><key>Red Component</key><real>0.6627451</real><key>Green Component</key><real>0.69411765</real><key>Blue Component</key><real>0.8392157</real><key>Alpha Component</key><real>1</real></dict>
+
+    <!-- ANSI 8-15 (Bright) -->
+    <key>ANSIBrightBlackColor</key>
+    <dict><key>Red Component</key><real>0.25490196</real><key>Green Component</key><real>0.28235294</real><key>Blue Component</key><real>0.40784314</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightRedColor</key>
+    <dict><key>Red Component</key><real>0.96862745</real><key>Green Component</key><real>0.46666667</real><key>Blue Component</key><real>0.55686275</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightGreenColor</key>
+    <dict><key>Red Component</key><real>0.61960784</real><key>Green Component</key><real>0.9254902</real><key>Blue Component</key><real>0.41568627</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightYellowColor</key>
+    <dict><key>Red Component</key><real>0.87843137</real><key>Green Component</key><real>0.68627451</real><key>Blue Component</key><real>0.40784314</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightBlueColor</key>
+    <dict><key>Red Component</key><real>0.47843137</real><key>Green Component</key><real>0.63529412</real><key>Blue Component</key><real>0.96862745</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightMagentaColor</key>
+    <dict><key>Red Component</key><real>0.73333333</real><key>Green Component</key><real>0.60392157</real><key>Blue Component</key><real>0.96862745</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightCyanColor</key>
+    <dict><key>Red Component</key><real>0.49019608</real><key>Green Component</key><real>0.81176471</real><key>Blue Component</key><real>1</real><key>Alpha Component</key><real>1</real></dict>
+
+    <key>ANSIBrightWhiteColor</key>
+    <dict><key>Red Component</key><real>0.75294118</real><key>Green Component</key><real>0.79215686</real><key>Blue Component</key><real>0.96078431</real><key>Alpha Component</key><real>1</real></dict>
+
+    <!-- Reasonable defaults -->
+    <key>UseBrightBold</key><true/>
+    <key>ShowActiveProcessIndicatorInTab</key><true/>
+    <key>ShowActiveProcessIndicatorInTitlebar</key><true/>
+  </dict>
+</dict>
+</plist>
